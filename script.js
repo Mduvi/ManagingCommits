@@ -3,5 +3,6 @@ function a() {
 }
 
 function b() {
-    return "b";
+    var bMajuscule = "b";
+    return bMajuscule;
 }
